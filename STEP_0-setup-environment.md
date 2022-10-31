@@ -26,4 +26,4 @@ cd app-platform
 git status
 ```
 
-5. next step...
+5. next step...install packages.
