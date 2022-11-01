@@ -7,3 +7,7 @@ Well it's that time of year...Hacktoberfest - https://hacktoberfest.com/ - to ta
 ## This year...
 
 I'm going to learn how to use <a href="https://www.digitalocean.com/products/app-platform" target="_blank">Digitial Ocean's App Platform</a> to understand how it compares to <a href="https://azure.microsoft.com/en-us/products/app-service/" target="_blank">Azure App Service</a> features and ease-of-use.  I've used App Service for production applications, so this will be a stripped-down quickstart comparision.
+
+### Let's get started!
+
+![qr-code](https://user-images.githubusercontent.com/10120600/199127641-625c1869-9cd4-4118-9d41-c37455d11e68.png)
