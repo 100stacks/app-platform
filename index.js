@@ -33,5 +33,5 @@ wss.on('connection', function (ws) {
 
 // Server listening for connections
 server.listen(8080, function () {
-    console.log('Listening on http://0.0.0.0:8080');
+    console.log('Listening on http://127.0.0.1:8080');
 });
