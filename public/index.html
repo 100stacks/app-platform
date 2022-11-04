@@ -50,7 +50,7 @@
             const heapUsed = document.getElementById('heapUsed');
             const external = document.getElementById('external');
 
-            const protocol = window.location.includes('https') ? 'wss' : 'ws';
+            const protocol = window.location.protocol.includes('https') ? 'wss' : 'ws';
             const ws = new WebSocket(`${protocol}://${location.host}`);
 
             ws.onmessage = function (event) {
